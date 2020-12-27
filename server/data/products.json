@@ -1,0 +1,227 @@
+{
+  "products": [
+    {
+      "id": 12,
+      "sku": 12064273040195392,
+      "title": "Путь в Туркестан",
+      "description": "Боевая фантастика, Попаданцы",
+      "availableSizes": ["Мягкая обложка"],
+      "style": "Иван Оченков",
+      "price": 229,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 13,
+      "sku": 51498472915966366,
+      "title": "Лунастры",
+      "description": "Героическое фэнтези, Детская фантастика, Книги про волшебников",
+      "availableSizes": ["Мягкая обложка"],
+      "style": "Наталья Щерба",
+      "price": 249,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 14,
+      "sku": 10686354557628303,
+      "title": "Смерть перед свадьбой",
+      "description": "Зарубежные детективы, Иронические детективы, Исторические детективы",
+      "availableSizes": ["Электронная версия"],
+      "style": "Кэролайн Данфорд",
+      "price": 219,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 15,
+      "sku": 11033926921508487,
+      "title": "Это норм!",
+      "description": "Мотивация, Саморазвитие / личностный рост",
+      "availableSizes": ["Электронная версия"],
+      "style": "Елена Резанова",
+      "price": 399,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 11,
+      "sku": 39876704341265606,
+      "title": "Часодеи",
+      "description": "Детские приключения, Книги про волшебников",
+      "availableSizes": ["Твёрдая обложка"],
+      "style": "Наталья Щерба",
+      "price": 249,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 16,
+      "sku": 10412368723880253,
+      "title": "Маленькие ритуалы для больших достижений",
+      "description": "Зарубежная психология, Личная эффективность, Саморазвитие / личностный рост",
+      "availableSizes": ["Электронная версия"],
+      "style": "Сара Милн Роу",
+      "price": 249,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 0,
+      "sku": 8552515751438644,
+      "title": "Институт",
+      "description": "Зарубежная фантастика, Мистика, Триллеры, Ужасы",
+      "availableSizes": ["Твёрдая обложка"],
+      "style": "Стивен Кинг",
+      "price": 449,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 1,
+      "sku": 18644119330491312,
+      "title": "Дурная кровь",
+      "description": "Зарубежные детективы, Современные детективы",
+      "availableSizes": ["Мягкая обложка"],
+      "style": "Роберт Гэлбрейт",
+      "price": 379,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 2,
+      "sku": 11854078013954528,
+      "title": "Тревожные люди",
+      "description": "Современная зарубежная литература",
+      "availableSizes": ["Твёрдая обложка"],
+      "style": "Фредрик Бакман",
+      "price": 349,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 3,
+      "sku": 876661122392077,
+      "title": "Краткие ответы на большие вопросы",
+      "description": "Астрономия, Зарубежная публицистика, Научно-популярная литература, Физика",
+      "availableSizes": ["Твёрдая обложка"],
+      "style": "Стивен Кинг",
+      "price": 299,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 4,
+      "sku": 9197907543445677,
+      "title": "Ход королевы",
+      "description": "Зарубежная классика, Литература 20 века",
+      "availableSizes": ["Мягкая обложка"],
+      "style": "Уолтер Тевис",
+      "price": 246.75,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 5,
+      "sku": 10547961582846888,
+      "title": "Нано привычки",
+      "description": "Зарубежная психология, Личная эффективность, Мотивация, Саморазвитие / личностный рост",
+      "availableSizes": ["Электронная версия"],
+      "style": "Доктор Би Джей Фогг",
+      "price": 329,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 6,
+      "sku": 6090484789343891,
+      "title": "Просто делай! Делай просто!",
+      "description": "Личная эффективность, Мотивация, Саморазвитие / личностный рост",
+      "availableSizes": ["Мягкая обложка"],
+      "style": "Оскра Хартманн",
+      "price": 599,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 7,
+      "sku": 18532669286405342,
+      "title": "Билет не туда",
+      "description": "Боевая фантастика, Героическая фантастика, Попаданцы",
+      "availableSizes": ["Твёрдая обложка"],
+      "style": "Сергей Михеев",
+      "price": 249,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 8,
+      "sku": 5619496040738316,
+      "title": "Медвежий угол",
+      "description": "Современная зарубежная литература",
+      "availableSizes": ["Мягкая обложка"],
+      "style": "Фредрик Бакман",
+      "price": 349,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 9,
+      "sku": 11600983276356165,
+      "title": "Новогодняя коллекция детектива",
+      "description": "Современные детективы",
+      "availableSizes": ["Твёрдая обложка"],
+      "style": "ПОХЕР",
+      "price": 299,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    }
+  ]
+}
